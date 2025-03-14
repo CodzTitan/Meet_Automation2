@@ -1,1 +1,6 @@
-"Flask\ntwilio\ngoogle-auth\ngoogle-auth-oauthlib\ngoogle-auth-httplib2\ngoogle-api-python-client" 
+Flask
+twilio
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
